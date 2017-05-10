@@ -3,30 +3,30 @@
 
 # 编辑
 
-	* Command + Shift + Enter             补全代码
-	* Command + P                         弹出参数提示
-	* Shift + J                           快速查找文档
-	* Shift + F1                          外部文档
-	* Command + 鼠标点击                   提示简短信息
-	* Command + F1        	 	          再插入符号显示的描述错误或警告
-	* Command + /        	 	          注释代码或者取消注释
-	* Option + 上键                       选择先后增加代码块  
-	* Option + 下键                       减少之前选择的状态
-	* Option + Command + Shift + ]        选择到代码块结束
-	* Option + Command + Shift + [        选择到代码块开始
-	* Command + Option + |                自动缩进线
-	* Tab               				  缩进选定的行
-	* Shift + Tab               		  回退选定的行
-	* Command + X                         将所选的行或者块至剪贴板
-	* Command + C                         复制所选的行或者块
-	* Command + V                         从剪贴板粘贴
-	* Command + Shift + V                 粘贴从最近的缓冲区
-	* Command + D                         复制当前行或者所选快
-	* Command + Enter                     新起一行
-	* Command + + / -                     扩张代码或者收缩代码
-	* Command + Shift + +                 扩张全部代码
-	* Command + Shift + -                 收缩全部代码
-	* Command + W                         关闭活动编辑器选项卡
+	* Command + Shift + Enter         补全代码
+	* Command + P                     弹出参数提示
+	* Shift + J                       快速查找文档
+	* Shift + F1                      外部文档
+	* Command + 鼠标点击                提示简短信息
+	* Command + F1        	 	  再插入符号显示的描述错误或警告
+	* Command + /        	 	  注释代码或者取消注释
+	* Option + 上键                    选择先后增加代码块  
+	* Option + 下键                    减少之前选择的状态
+	* Option + Command + Shift + ]    选择到代码块结束
+	* Option + Command + Shift + [    选择到代码块开始
+	* Command + Option + |            自动缩进线
+	* Tab               		  缩进选定的行
+	* Shift + Tab               	  回退选定的行
+	* Command + X                     将所选的行或者块至剪贴板
+	* Command + C                     复制所选的行或者块
+	* Command + V                     从剪贴板粘贴
+	* Command + Shift + V             粘贴从最近的缓冲区
+	* Command + D                     复制当前行或者所选快
+	* Command + Enter                 新起一行
+	* Command + + / -                 扩张代码或者收缩代码
+	* Command + Shift + +             扩张全部代码
+	* Command + Shift + -             收缩全部代码
+	* Command + W                     关闭活动编辑器选项卡
 
 # 运行
     * Control + Option + R                选择配置和运行
@@ -77,10 +77,10 @@
     * Control + 0-9                       去0-9编号的书签
     * Command + F3                        显示书签
 # 查找/替换
-	* Command + F / R                     查找 / 替换
-	* Command + G / Shift + G             查找 下一个 / 上一个
-	* Command + Shift + F                 指定文件内寻找
-	* Command + Shift + R                 指定文件内替换
+	* Command + F / R                 查找 / 替换
+	* Command + G / Shift + G         查找 下一个 / 上一个
+	* Command + Shift + F             指定文件内寻找
+	* Command + Shift + R             指定文件内替换
 # 查找 使用
     * Option + F7 / Command + F7          查找用法/ 查找使用文件
     * Command + Shift + F7                强调使用文件
